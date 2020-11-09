@@ -1,7 +1,7 @@
 ### Hello there
 
-![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo&show_icons=true&theme=dracula)
-[![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo)](https://github.com/Wilkozo/github-readme-stats)<!--
+![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo&show_icons=true&theme=blue-green)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilkozo&layout=compact)](https://github.com/Wilkozo/github-readme-stats)
 **Wilkozo/Wilkozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
