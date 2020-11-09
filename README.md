@@ -4,10 +4,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  ![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo&show_icons=true&theme=blue-green)
 </a>
 
-![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo&show_icons=true&theme=blue-green)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilkozo&layout=compact)](https://github.com/Wilkozo/github-readme-stats)
