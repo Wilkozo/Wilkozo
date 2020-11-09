@@ -1,6 +1,6 @@
 ### Hello there
 
-![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo&show_icons=true&theme=dark)
+![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo&show_icons=true&theme=merko)
 [![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo)](https://github.com/Wilkozo/github-readme-stats)<!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilkozo&layout=compact)](https://github.com/Wilkozo/github-readme-stats)
