@@ -7,13 +7,9 @@
   
 </a>
 
-
-![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo&show_icons=true&theme=blue-green)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilkozo&layout=compact)](https://github.com/Wilkozo/github-readme-stats)
 **Wilkozo/Wilkozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Gamemaker project
 - 🌱 I’m currently learning about gamemakers networking and shader limitations
