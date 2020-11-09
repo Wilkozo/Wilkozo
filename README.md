@@ -1,5 +1,7 @@
 ### Hello there
 
+![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo&theme=dark&show_icons=true)
+
 ![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo&show_icons=true&theme=blue-green)
 
 
