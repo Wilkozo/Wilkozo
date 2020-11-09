@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Wilkozo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+[![Wilkozo's github stats](https://github-readme-stats.vercel.app/api?username=Wilkozo)](https://github.com/Wilkozo/github-readme-stats)<!--
 **Wilkozo/Wilkozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
