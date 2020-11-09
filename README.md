@@ -1,7 +1,7 @@
 ### Hello there
 
 <a href="https://github.com/Wilkozo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilkozo&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wilkozo&show_icons=true&theme=blue-green" />
 </a>
 <a>
   
